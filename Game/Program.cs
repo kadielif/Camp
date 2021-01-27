@@ -7,7 +7,7 @@ namespace Game
         static void Main(string[] args)
         {
 
-            Gamer gamer = new Gamer() { TC = "17534819790", FirstName = "Elif", LastName = "Kadı", DateOfBirth = new DateTime(1997, 11, 18),GameId=5 };
+            Gamer gamer = new Gamer() { TC = "17234819780", FirstName = "Elif", LastName = "Kadı", DateOfBirth = new DateTime(1997, 11, 18),GameId=5 };
             Game game = new Game() {GameId=5,GameName="HearthStone" ,GamePrice=100};
 
             
